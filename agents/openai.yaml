@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Gap Pipeline"
+  short_description: "Build a rigorous literature-to-research-gap workflow."
+  default_prompt: "Help me run a full research gap pipeline: define top journals, prepare manual CNKI or arXiv retrieval, normalize exported literature, run per-paper LLM coding, synthesize themes, identify gaps, and produce usable thesis topics."
